@@ -1,0 +1,6 @@
+<b>Type</b>: Assualt rifle
+<b>Origin</b>: Sovie Union
+<b>In service</b>: 1949-present
+<b>Designer</b>: Mikhail Kalashnikov
+<b>Designed</b>: 1946-1948
+<b>Cartridge</b>: 7.62x39mm

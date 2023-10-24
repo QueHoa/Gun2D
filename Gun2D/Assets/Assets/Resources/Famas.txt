@@ -1,0 +1,6 @@
+<b>Type</b>: Assualt rifle
+<b>Origin</b>: Russia
+<b>In service</b>: 1994-present
+<b>Designer</b>: V. N. Telesh, U. V. Lebedev (TsKIB SOO)
+<b>Designed</b>: 1993-present
+<b>Cartridge</b>: 9 x 39 mm, 7.62x39mm M43

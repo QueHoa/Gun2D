@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Saber
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: feea64a79ef0fbb4fa0a96f95e6e8771, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 38796520285e21c4b97829c935cb1da7, type: 3}
+  - {fileID: 21300000, guid: 81618c708d6fbe541ae25f2aa3ca771a, type: 3}
+  - {fileID: 21300000, guid: 12b096d0796eb324a80cf749645bc8b2, type: 3}
+  - {fileID: 21300000, guid: 23877c2138d642f4cb36aa630030e764, type: 3}
+  - {fileID: 21300000, guid: 5d224e91ce8edda459bf254d94950897, type: 3}
+  - {fileID: 21300000, guid: 3455ffd1e3a05d047a6fdcdec6d49f78, type: 3}
+  - {fileID: 21300000, guid: a27bcdf101b07dd4082d695df0da712f, type: 3}
+  - {fileID: 21300000, guid: 1243b9625446a464d93b00a941bab6e0, type: 3}
+  - {fileID: 21300000, guid: c75683823b110824b86bf1f010bfd093, type: 3}
+  - {fileID: 21300000, guid: 70d839a284d88204e8a15b5a09b9df82, type: 3}
+  - {fileID: 21300000, guid: 998e15e3d25fb6340873b30385172bb4, type: 3}
+  - {fileID: 21300000, guid: 9bf1a93432ca90647a0868ee3edd34a6, type: 3}
+  - {fileID: 21300000, guid: 02a6df4402671c14f9e0fefe5573112e, type: 3}
+  - {fileID: 21300000, guid: 4648a6849960bc641a68307f8700294b, type: 3}
+  - {fileID: 21300000, guid: c22fb684db66c6f4491671d31d24ac74, type: 3}
+  - {fileID: 21300000, guid: aa605ac4bf2224247ad0a53b161ef4e2, type: 3}
+  - {fileID: 21300000, guid: 3551aaf4f6acdaa4fb2b32158d3f4d9b, type: 3}
+  - {fileID: 21300000, guid: e3afa78569c12804981a2f088317fd24, type: 3}
+  - {fileID: 21300000, guid: 058f0ad53bf5efe47b31f12258e84b94, type: 3}
+  - {fileID: 21300000, guid: 504665f5386d8854b89ac549bae65a88, type: 3}
+  - {fileID: 21300000, guid: 9fc9be06cd6b08740b5bf5ca8dbba2f3, type: 3}
+  - {fileID: 21300000, guid: 996191363e5609341a9cbd75681b423c, type: 3}
+  - {fileID: 21300000, guid: 1e283736de621d4468346bb9f944dbc6, type: 3}
+  - {fileID: 21300000, guid: 29566386c17106b45a3c688330b4a392, type: 3}
+  - {fileID: 21300000, guid: 311a678681665a347a27971486e7094d, type: 3}
+  - {fileID: 21300000, guid: 24ec5ec692133544da84c463e68992b5, type: 3}
+  - {fileID: 21300000, guid: 9222154746510fd4c97758d4af9fcab0, type: 3}
+  - {fileID: 21300000, guid: fcc2ae68868a3d14b97d9baaee732f0b, type: 3}
+  - {fileID: 21300000, guid: 97dc3da96fde5bb44be69f09b715e93a, type: 3}
+  - {fileID: 21300000, guid: b12937e9e8a140e4a9bb5c48f9454119, type: 3}
+  - {fileID: 21300000, guid: c231cb1a9a6f78f4bb6522f387978ef7, type: 3}
+  - {fileID: 21300000, guid: 3cb8be3a45576d94ba35464412b88803, type: 3}
+  - {fileID: 21300000, guid: fb84688a8725eef48be9c6e8311e4269, type: 3}
+  - {fileID: 21300000, guid: 27a15b8ada02031428fae8f466082be4, type: 3}
+  - {fileID: 21300000, guid: c7d97fcab37245e438dfc1571bff2224, type: 3}
+  - {fileID: 21300000, guid: 15d8ee9bc9a9a1c4bb7e35350571373e, type: 3}
+  - {fileID: 21300000, guid: 5618febbeb87ac74d8e5201abf5eeba4, type: 3}
+  - {fileID: 21300000, guid: 7810bc8cbdf570041be4423350ceafa9, type: 3}
+  - {fileID: 21300000, guid: 9d71737d18c691a4f8d75106c9b8e351, type: 3}
+  - {fileID: 21300000, guid: 2e5d8a7dd2d5e6f4b89379f6782d09c5, type: 3}
+  - {fileID: 21300000, guid: d1c5b68dca725564e8ce4be3fc2c969a, type: 3}
+  - {fileID: 21300000, guid: 935832cdbe5cc1545b0d094e42883640, type: 3}
+  - {fileID: 21300000, guid: 6dc1b81eb8db0d0428adeef63bc0527c, type: 3}
+  - {fileID: 21300000, guid: de47526e4d7633e4c9b5e2316e9234b1, type: 3}
+  - {fileID: 21300000, guid: 44a4538e29cdac14383021b5001d6f59, type: 3}
+  - {fileID: 21300000, guid: d0db82be4b3e1ce4aac44690a907df8a, type: 3}
+  - {fileID: 21300000, guid: 5b9e0fde129f56a4894f9524d1e0bd67, type: 3}
+  - {fileID: 21300000, guid: 61441d0feb5b64d4caea92f2b43c8191, type: 3}
+  - {fileID: 21300000, guid: 59bae58f36085234aaea14011ab6a2db, type: 3}
+  - {fileID: 21300000, guid: c1acc7cfa8c818c44b4efcc01a9c8878, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - saber_1_full
+  - saber_16_full
+  - saber_5_full
+  - circle full
+  - saber_2
+  - saber_15
+  - saber_5
+  - saber_24 #1497
+  - saber_24
+  - saber_9_full
+  - Rectangle 14
+  - saber_10
+  - saber_2_full
+  - color palette
+  - circle1
+  - black_full
+  - saber_17 #1465
+  - Rectangle 14Blur
+  - saber_1 #1469
+  - saber_17_full
+  - circle
+  - multiple_full
+  - saber_1
+  - lightning_branch
+  - saber_9
+  - saber_3
+  - lightning_charge
+  - multiple
+  - saber_15_full
+  - energy
+  - saber_5 #1478
+  - saber_10_full
+  - saber_9 #1501
+  - saber_10 #1490
+  - saber_15 #1449
+  - saber_3_full
+  - Group 103
+  - Vector 297
+  - saber_2 #1502
+  - lightning_purple
+  - black
+  - saber_16
+  - lightning_paw
+  - saber_17
+  - saber_24_full
+  - black1
+  - Outer glow
+  - saber_3 #1504
+  - saber_16 #1483
+  - multiple1
+  m_RenderDataMap: {}
+  m_Tag: Saber
+  m_IsVariant: 0

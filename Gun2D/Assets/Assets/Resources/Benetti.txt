@@ -1,0 +1,6 @@
+<b>Origin</b>: Italia
+<b>In service</b>: 1956-unknown
+<b>Barrel Weight</b>: 3,175 lb
+<b>Barrel Length</b>: 27,55 in
+<b>Weight</b>: 7,165 lb
+<b>Cartridge</b>: 7.62x51mm NATO

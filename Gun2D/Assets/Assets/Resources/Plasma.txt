@@ -1,0 +1,7 @@
+<b>Type</b>: Revolver grenade launcher
+<b>Place of origin</b>: Unknown
+<b>In service</b>: Unknown
+<b>Designer</b>: Unknown
+<b>Weight</b>: Unknown
+<b>Length</b>: Unknown
+<b>Cartridge</b>: Unknown

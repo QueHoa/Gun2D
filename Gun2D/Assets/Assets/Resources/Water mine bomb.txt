@@ -1,0 +1,3 @@
+<b>Type</b>: Torpedo
+<b>Place of origin</b>: US
+<b>In service</b>: 1910-present (Russia)

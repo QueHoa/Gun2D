@@ -1,0 +1,7 @@
+<b>Type</b>: Sniper rifle
+<b>Origin</b>: UK
+<b>In service</b>: 1982 (L96A1), 1988 (AW), 1990-present
+<b>Designed</b>: 1982 (PM), 1983 (AW)
+<b>Weight</b>: 6.5 kb (14.3 lb)
+<b>Length</b>: 1,180 mm (46.5 in)
+<b>Cartridge</b>: 7.62x51mm NATO

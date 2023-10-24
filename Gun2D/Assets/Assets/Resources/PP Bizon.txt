@@ -1,0 +1,7 @@
+<b>Type</b>:Submachine gun
+<b>Place of origin</b>: Russia and Vietnam
+<b>In service</b>: 1996-present
+<b>Designer</b>: Viktor Kalashnikov, Aleksey Dragunov
+<b>Weight</b>: 2.1 kg
+<b>Length</b>: 660 mm open stock / 425 mm folded stock (Bizon)
+<b>Cartridge</b>: 9×17mm

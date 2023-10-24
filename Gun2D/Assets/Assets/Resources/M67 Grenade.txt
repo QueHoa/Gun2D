@@ -1,0 +1,6 @@
+<b>Type</b>: Hand grenade
+<b>Place of origin</b>: US
+<b>In service</b>: 1968-present (Russia)
+<b>Weight</b>: 400g
+<b>Length</b>: 90mm
+<b>Diameter</b>: 64mm

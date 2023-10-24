@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6a6c67f0ed5b394bbe51d78a36d659f, type: 3}
+  m_Name: MonetizationData
+  m_EditorClassIdentifier: 
+  AndroidIronSourceKey: 195ce9af5
+  AndroidAdmobAppID: ca-app-pub-1370756799605534~9648073890
+  AndroidAppOpenAdsID: ca-app-pub-1370756799605534/3764265780
+  iOSIronSourceKey: 
+  iOSAdmobAppID: 
+  iOSAppOpenAdsID: 
+  FacebookAppID: 1157074014982133
+  FacebookClientID: 409b369d2626112bdf3371240a20b653
+  AdjustAppToken: 6h0psbx57q4g

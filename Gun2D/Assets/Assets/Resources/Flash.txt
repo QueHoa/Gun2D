@@ -1,0 +1,4 @@
+<b>Type</b>: Hand grenade
+<b>Place of origin</b>: Swedish
+<b>Designer</b>: Alfred Nobel
+<b>Design</b>: 1867

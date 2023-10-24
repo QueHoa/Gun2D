@@ -1,0 +1,6 @@
+<b>Type</b>: Semi-automatic pistol
+<b>Origin</b>: Kingdom of Spain
+<b>In service</b>: 1927–1945
+<b>Mass</b>: 1.275 kg 
+<b>Length</b>: 308 mm 
+<b>Cartridge</b>: 7.63×25mm

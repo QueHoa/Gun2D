@@ -1,0 +1,6 @@
+<b>Type</b>: Hand grenade
+<b>Place of origin</b>: Soviet Union
+<b>Smoke Duration</b>: 90s
+<b>Weight</b>: 600g
+<b>Length</b>: 130mm
+<b>Diameter</b>: 55mm

@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Gun
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 45a12dd8e952f834e980a8ff679a4ea7, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: eb38ff5099532fb4e8d1c81002e135dc, type: 3}
+  - {fileID: 21300000, guid: 1e51c0906c609834dafd50467153ab7b, type: 3}
+  - {fileID: 21300000, guid: 7efd4ea084b44f94c90b12b4d1aa75bf, type: 3}
+  - {fileID: 21300000, guid: 7d6080e06f8bb3241a51f34af1a5bf63, type: 3}
+  - {fileID: 21300000, guid: efd0cb012aa6b1c44a32628402022eee, type: 3}
+  - {fileID: 21300000, guid: 4d61564115e824646bbd4a1859bdee8e, type: 3}
+  - {fileID: 21300000, guid: f41cd0718ae38974aafe41d34e3336c9, type: 3}
+  - {fileID: 21300000, guid: 18d52271c77713c45966cd199009d834, type: 3}
+  - {fileID: 21300000, guid: 5b6d57b1d8a1631439d48ece4bd815b1, type: 3}
+  - {fileID: 21300000, guid: c71869e1e54aa4f4e8bce3c75771bff1, type: 3}
+  - {fileID: 21300000, guid: c61612123211f4c438abadd97e73268d, type: 3}
+  - {fileID: 21300000, guid: 0302276363a869f44979bbf5b8199cce, type: 3}
+  - {fileID: 21300000, guid: 92ec2544e9632924d80eb0299f8c13bc, type: 3}
+  - {fileID: 21300000, guid: a41737e48f60596429edbd2825032398, type: 3}
+  - {fileID: 21300000, guid: a73d2d8538bfbce4f9d3eb281aa5f071, type: 3}
+  - {fileID: 21300000, guid: c87f68a56d0047d4aae21e14b34ff3bb, type: 3}
+  - {fileID: 21300000, guid: 1478a7f5a9caf0545baccfe07d94b6d5, type: 3}
+  - {fileID: 21300000, guid: 2a08f536726ce234d8c2856075bf1684, type: 3}
+  - {fileID: 21300000, guid: 48653836bc5062749a06535065a1c1e8, type: 3}
+  - {fileID: 21300000, guid: 1c2365c6e0b4a3b4c96f76f370c5ab83, type: 3}
+  - {fileID: 21300000, guid: 705cd2f6de2bb98459134ce29a191021, type: 3}
+  - {fileID: 21300000, guid: 067e8c2769ad790459e895ac1c46bb63, type: 3}
+  - {fileID: 21300000, guid: a121a548d2fe7564a9144f430b9a665b, type: 3}
+  - {fileID: 21300000, guid: b6000298ef2a9e340868d56b81d35d76, type: 3}
+  - {fileID: 21300000, guid: 903553b855ea9c447aca6c6749baf077, type: 3}
+  - {fileID: 21300000, guid: edad86b80faeac84a94e095bc1f21151, type: 3}
+  - {fileID: 21300000, guid: b9d3fa2ad4b7cb744bd7becbff0c376f, type: 3}
+  - {fileID: 21300000, guid: ca7c254af3d678f46b04164cb70e7d43, type: 3}
+  - {fileID: 21300000, guid: 09e4bb5b7349f2e4da6850c322e23f01, type: 3}
+  - {fileID: 21300000, guid: 958d9e6b8572afb4b99d1a333f110eee, type: 3}
+  - {fileID: 21300000, guid: b870d98b9334aa24eb5b14f9a1f38144, type: 3}
+  - {fileID: 21300000, guid: 180462cb2151195468320117c15dc8b4, type: 3}
+  - {fileID: 21300000, guid: a5a0c6db226a4aa4eaec5c0d63f0199f, type: 3}
+  - {fileID: 21300000, guid: 1e6d4efb5513572479a848a5a4edf4a0, type: 3}
+  - {fileID: 21300000, guid: bf28692c3984eb54ba51e61115f96690, type: 3}
+  - {fileID: 21300000, guid: 968d194c26f0186408191bc0f61abe85, type: 3}
+  - {fileID: 21300000, guid: 3c1d3c9c4deefea45bb6a56511c617dd, type: 3}
+  - {fileID: 21300000, guid: d91411acedb8b2242b77adef14d3806d, type: 3}
+  - {fileID: 21300000, guid: 7ea115cc01a67be4da04c83cfc6e18be, type: 3}
+  - {fileID: 21300000, guid: 50f83fdc6e27d4f4ea6ff91537796353, type: 3}
+  - {fileID: 21300000, guid: 584917fc280970648b326e38b800db14, type: 3}
+  - {fileID: 21300000, guid: 101d761d6ba447f499ddc1823ae36535, type: 3}
+  - {fileID: 21300000, guid: 4ff26f3d12478dc4db7678c212d9ca19, type: 3}
+  - {fileID: 21300000, guid: acef768d12bb6524d8024924cd9c4327, type: 3}
+  - {fileID: 21300000, guid: d0b0419d5fff6d04e8cd5c9d4f05e8fe, type: 3}
+  - {fileID: 21300000, guid: 62ccd1fd5a88fe74ea9772af687ecccd, type: 3}
+  - {fileID: 21300000, guid: b498413e96bc7794b9ff5bc95afe2295, type: 3}
+  - {fileID: 21300000, guid: bdd14e9ea33386f46bf1b8634c3e1a7a, type: 3}
+  - {fileID: 21300000, guid: eb9b88be13a49f14e96af9596d76e30b, type: 3}
+  - {fileID: 21300000, guid: f56276fe1ee4e93479903abda9e8c4f0, type: 3}
+  - {fileID: 21300000, guid: a1dd594fa27fb704a890de496a5397dc, type: 3}
+  - {fileID: 21300000, guid: fa27975f3c155c04cb863b23f2286a3a, type: 3}
+  - {fileID: 21300000, guid: 91802edf51d42324081e45c77454acc8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - AWS
+  - P90
+  - F2000
+  - rilfe 5
+  - rocket
+  - Benetti
+  - AI-L96 1
+  - M249 1
+  - Gali AR
+  - bullet #10248
+  - minigun
+  - ar heavy
+  - Airsoft Guns M4 3
+  - machine gun
+  - AK-47 1
+  - M32
+  - xm1014
+  - astra 900
+  - SSG 08
+  - Laser 1
+  - F2000 1
+  - SVD
+  - gunFireAuto
+  - Bazooka
+  - Famas
+  - gunFireSniper
+  - laser
+  - pngwing.com
+  - Minigun 1
+  - Browning M2HB
+  - rilfe 1
+  - M1-J
+  - plasma
+  - Groza
+  - M32 1
+  - Flame
+  - mini gun
+  - Arc Cannon
+  - gunFireMini
+  - PP-Bizon
+  - AK-47
+  - gunFireHand
+  - Fishbones
+  - Coachgun
+  - energy gun
+  - m249
+  - Negev
+  - rocket #1858
+  - AI-L96
+  - gun
+  - flame 1
+  - COLT-PYTHON
+  - Airsoft Guns M4 1
+  m_RenderDataMap: {}
+  m_Tag: Gun
+  m_IsVariant: 0

@@ -1,0 +1,3 @@
+<b>Type</b>: C4
+<b>Place of origin</b>: CS-GO
+<b>Detonation speed</b>: 8,092 m/s

@@ -1,0 +1,4 @@
+<b>Type</b>: Assualt rifle
+<b>Origin</b>: Israel
+<b>In service</b>: 1972-present
+<b>Designer</b>: Yisrael Galil, Yakc Lior
